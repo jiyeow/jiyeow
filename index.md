@@ -3,25 +3,30 @@
 ---
 
 ### 1. Expertise and skills
-- Project management
+- Project management, budgeting, and personnel training
 - Field survey and sampling
-- Instrumentation (automated samplers, sensors)
+- Instrumentation 
 - Data management and statistical analysis 
 - Engineering economic analysis
 - Hydrology and hydraulic (H&H) modeling 
 - Technical writing
 - Client and public engagement
-- Multilingual (English - primary, Mandarin, Malay)
+- Multilingual (English - primary, Chinese, Malay)
 
 ---
 
 ### 2. Software and Hardware
+Software
 - ArcGIS, AutoCAD, SolidWorks, Autodesk
-- Trimble RTK GPS, GNSS, Transit Level
-- MS Word, Excel, PowerPoint, Project, Outlook
+- Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
 - VBA, Python
 - JMP, SAS, OriginLab
-- Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
+- MS Word, Excel, PowerPoint, Project, Outlook
+
+Hardware
+- Trimble RTK GPS, GNSS, Transit Level
+- Solinst/HOBO pressure and barometric tranducers
+- Teledyne automated water samplers and flow sensors
 
 ---
 
@@ -39,14 +44,13 @@ Minor: Agribusiness_ <br>
 __Environmental Engineer (2018 - present)__ <br>
 Iowa State University, Ames, Iowa, USA. <br>
 As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
-our organization, I developed innovative water management/remediation technologies and demonstrated improved performance at lower costs. I also helped several goverment,
-non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches.
+our organization, I delivered innovative water management/remediation solutions and demonstrated improved performance at lower costs. I also helped goverment, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. My primary work involves the investigation of fate and transport of pollutants in the environment, and the development remediation strategies to achieve water quality goals.
 
 ---
 
 __Research Analyst Intern (2018 spring)__ <br>
 Iowa Soybean Association, Ankeny, IA, USA. <br>
-During my short internship at Iowa Soybean Association, I shared my expertise in data analysis to support Environmental Programs and Services (EPS) Team and Analytics Team. I used hydrology modeling approaches to estimate surface and subsurface nitrogen loading from tile-drained agricultural landscapes. Similarly, I used statistical tools and hydraulic models to compute flows and nitrogen load reductions of denitrifying bioreactors.
+At Iowa Soybean Association, I shared my expertise in data analysis to support Environmental Programs and Services (EPS) Team and Analytics Team. I used hydrology modeling approaches to estimate surface and subsurface nitrogen loading from tile-drained agricultural landscapes. Similarly, I used statistical tools and hydraulic models to compute flows and nitrogen load reductions of denitrifying bioreactors.
 
 __Graduate Research Assistant (2015 - 2017)__ <br>
 Iowa State University, Ames, IA, USA. <br>
