@@ -31,7 +31,7 @@ __Hardware__
 ---
 
 ### 3. Education
-__Iowa State University__ <br>
+__Iowa State University, Ames, IA, USA.__ <br>
 Master of Science, 2015 - 2017 (GPA 3.92) <br>
 _Co-major: Agricultural and Biosystems Engineering (Land and Water Resources) <br>
 Co-major: Civil Engineering (Environmental Engineering)_ <br> 
@@ -44,7 +44,9 @@ Minor: Agribusiness_ <br>
 __Environmental Engineer (2018 - present)__ <br>
 Iowa State University, Ames, Iowa, USA. <br>
 _As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
-our organization, I delivered innovative water management/remediation solutions and demonstrated improved performance at lower costs. I also helped goverment, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. My primary work involves the investigation of fate and transport of pollutants in the environment, and the development remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes watershed monitoring design, watershed management plan, and denitrification bioreactor design._
+our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped goverment, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br>
+
+My primary work involves the investigation of fate and transport of pollutants in the environment, and the development remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes watershed monitoring design, watershed management plan, and denitrification bioreactor design._
 
 ---
 
@@ -64,3 +66,5 @@ __Undergraduate Research Assistant (2014 - 2015)__ <br>
 Iowa State University, Ames, IA, USA. <br>
 _I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), then transitioned to the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory._
 
+### 5. Hobbies
+Add a picture
