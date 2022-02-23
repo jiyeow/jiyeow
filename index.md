@@ -60,11 +60,3 @@ __Undergraduate Research Assistant (2014 - 2015)__
 Iowa State University, Ames, IA, USA. <br>
 I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), then transitioned to the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory.
 
-
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
