@@ -3,7 +3,7 @@
 ---
 
 ### Education
-__Iowa State University__ <br>
+#### Iowa State University <br>
 Master of Science, 2015 - 2017 (GPA 3.92) <br>
 _Co-major: Agricultural and Biosystems Engineering (Land and Water Resources Option) <br>
 Co-major: Civil Engineering (Environmental Engineering Option)_ <br> 
@@ -13,9 +13,8 @@ _Major: Agricultural Engineering (Land and Water Resources Option) <br>
 Minor: Agribusiness_ <br> <br>
 
 ### Experience
-<details>
-  <summary style="font-size: 14px;"><strong>2018 - present</strong>: Environmental Engineer, Iowa State University, Ames, IA, USA.</summary>
-
+#### Environmental Engineer, Iowa State University
+Ames, Iowa, USA <br>
 - Provide consulting services to address environmental issues using practical, cost-effective approaches <br>
   - Collect water quantity/quality and topographic data <br>
   - Model pollutant transport to calculate waste load allocations (TMDLs) <br>
@@ -30,8 +29,7 @@ Minor: Agribusiness_ <br> <br>
 - Support OSHA compliance training to ensure safe work environments <br>
 - Manage and forecast expenses to track and allocate project resources <br>
 - Mentor and train new employees for career progression
-</details>
-
+- 
 <details>
   <summary style="font-size: 14px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
 
