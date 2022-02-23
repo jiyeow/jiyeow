@@ -2,7 +2,7 @@
 
 ---
 
-### Education
+### 1. Education
 __Iowa State University__ <br>
 Master of Science, 2015 - 2017 (GPA 3.92) <br>
 _Co-major: Agricultural and Biosystems Engineering (Land and Water Resources Option) <br>
@@ -12,7 +12,32 @@ Bachelor of Science, 2013 - 2016 (GPA: 3.76) <br>
 _Major: Agricultural Engineering (Land and Water Resources Option) <br>
 Minor: Agribusiness_ <br> 
 
-### Experience
+---
+
+### 2. Expertise and skills
+- Project management
+- Field survey and sampling
+- Instrumentation (automated samplers, sensors)
+- Data management and statistical analysis 
+- Engineering economic analysis
+- Hydrology and hydraulic (H&H) modeling 
+- Technical writing
+- Client and public engagement
+- Multilingual (English - primary, Mandarin, Malay)
+
+---
+
+### 3. Software and Hardware
+- ArcGIS, AutoCAD, SolidWorks, Autodesk
+- Trimble RTK GPS, GNSS, Transit Level
+- MS Word, Excel, PowerPoint, Project, Outlook
+- VBA, Python
+- JMP, SAS, OriginLab
+- Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
+
+---
+
+### 4. Experience
 __Environmental Engineer (2018 - present)__ <br>
 Iowa State University, Ames, Iowa, USA. <br>
 As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
@@ -36,30 +61,6 @@ Iowa State University, Ames, IA, USA. <br>
 I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), then transitioned to the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory.
 
 
-
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
