@@ -13,62 +13,27 @@ _Major: Agricultural Engineering (Land and Water Resources Option) <br>
 Minor: Agribusiness_ <br> 
 
 ### Experience
-__Environmental Engineer, Iowa State University__ <br>
-Ames, Iowa, USA <br>
+__Environmental Engineer (2018 - present)__ <br>
+Iowa State University, Ames, Iowa, USA. <br>
 As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
 our organization, I developed innovative water management/remediation technologies and demonstrated improved performance at lower costs. I also helped several goverment,
 non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches.
 
-In these projects, I:
-- Prepare proposals, work plans, engineering reports, and peer-reviewed scientific articles <br>
-- Collect water quantity/quality and topographic data <br>
-- Model pollutant transport to calculate waste load allocations (TMDLs) <br>
-- Install, maintain, and operate water monitoring stations and sensors <br>
-- Automate data management and analysis to improve efficiency <br>
-- Conduct engineering cost analysis to examine and improve cost-efficiency <br>
-- Support OSHA compliance training to ensure safe work environments <br>
-- Manage and forecast expenses to track and allocate project resources <br>
-- Mentor and train new employees for career progression
-- 
-<details>
-  <summary style="font-size: 14px;"><strong>2018 Spring</strong>: Research Analyst Intern, Iowa Soybean Association, Ankeny, IA, USA.</summary>
+__Research Analyst Intern (2018 spring)__ <br>
+Iowa Soybean Association, Ankeny, IA, USA. <br>
+During my short internship at Iowa Soybean Association, I shared my expertise in data analysis to support Environmental Programs and Services (EPS) Team and Analytics Team. I used hydrology modeling approaches to estimate surface and subsurface nitrogen loading from tile-drained agricultural landscapes. Similarly, I used statistical tools and hydraulic models to compute flows and nitrogen load reductions of denitrifying bioreactors.
 
-- Used H&H models to estimate nitrogen loading and reduction across Iowa <br>
-  - Computed surface/subsurface nitrogen loads in tile-drained landscapes <br>
-  - Computed flows and nitrogen load reductions of bioreactors 
-</details>
-
-<details>
-  <summary style="font-size: 14px;"><strong>2015-2017</strong>: Graduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
-
-- Led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies <br>
-  - Developed engineering drawings of the finalized bioreactor design for peer-reviewed publication <br>
-  - Responsible for daily operation, maintenance, and sampling of bioreactors <br>
-  - Performed data management, analysis, and interpretation of research data <br>
-  - Conducted techno-economic analysis to evaluate the cost feasibility of modified bioreactors compared to conventional bioreactors <br>
+__Graduate Research Assistant (2015 - 2017)__ <br>
+Iowa State University, Ames, IA, USA. <br>
+As part of my M.S. Thesis work, I led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for daily operation, maintenance, and sampling of the bioreactors. I also conducted statisitcal and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors.
  
-</details>
+__Research Intern (2015 Summer)__ <br>
+University of Malaya, Kuala Lumpur Malaysia. <br>
+During my internship, I assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I was also tasked to produce a literature review report on extended aeration wastewater treatments systems for a proposal development.
 
-<details>
-  <summary style="font-size: 14px;"><strong>2015 Summer</strong>: Research Intern, University of Malaya, Kuala Lumpur Malaysia.</summary>
-
-- Assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions <br>
-  - Performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors <br>
-  - Produced a literature review report on extended aeration wastewater treatments systems <br>
-</details>
-
-<details>
-  <summary style="font-size: 14px;"><strong>2014-2015</strong>: Undergraduate Research Assistant, Iowa State University, Ames, IA, USA.</summary>
-
-- Assisted studies on water and soil quality research
-  - Supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site
-  - Performed water sampling and maintenance for lab-scale denitrification bioreactors
-  - Performed soil/water sampling in corn-soybean research plots receiving poultry manure
-- Conducted chemical, biological, and physical analyses of soil/water samples in the laboratory
-- Developed engineering drawings of bioreactors for peer-reviewed publication
-</details>
-
-
+__Undergraduate Research Assistant (2014 - 2015)__
+Iowa State University, Ames, IA, USA. <br>
+I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), then transitioned to the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory.
 
 
 
