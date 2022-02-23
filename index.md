@@ -3,29 +3,29 @@
 ---
 
 ### Education
-#### Iowa State University <br>
+__Iowa State University__ <br>
 Master of Science, 2015 - 2017 (GPA 3.92) <br>
 _Co-major: Agricultural and Biosystems Engineering (Land and Water Resources Option) <br>
 Co-major: Civil Engineering (Environmental Engineering Option)_ <br> 
 
 Bachelor of Science, 2013 - 2016 (GPA: 3.76) <br>
 _Major: Agricultural Engineering (Land and Water Resources Option) <br>
-Minor: Agribusiness_ <br> <br>
+Minor: Agribusiness_ <br> 
 
 ### Experience
-#### Environmental Engineer, Iowa State University
+__Environmental Engineer, Iowa State University__ <br>
 Ames, Iowa, USA <br>
-- Provide consulting services to address environmental issues using practical, cost-effective approaches <br>
-  - Collect water quantity/quality and topographic data <br>
-  - Model pollutant transport to calculate waste load allocations (TMDLs) <br>
-- Develop and demonstrate innovative water management/remediation technologies to improve performance and reduce cost <br>
-  - Prepare research proposals for funding to execute ideas and deliver results <br>
-  - Collaborate with multi-disciplinary peers to address higher-level issues <br>
+As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
+our organization, I developed innovative water management/remediation technologies and demonstrated improved performance at lower costs. I also helped several goverment,
+non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches.
+
+In these projects, I:
+- Prepare proposals, work plans, engineering reports, and peer-reviewed scientific articles <br>
+- Collect water quantity/quality and topographic data <br>
+- Model pollutant transport to calculate waste load allocations (TMDLs) <br>
 - Install, maintain, and operate water monitoring stations and sensors <br>
-- Prepare work plans and SOPs to ensure high quality and consistent work <br>
 - Automate data management and analysis to improve efficiency <br>
 - Conduct engineering cost analysis to examine and improve cost-efficiency <br>
-- Develop watershed management plans, reports, and refereed articles <br>
 - Support OSHA compliance training to ensure safe work environments <br>
 - Manage and forecast expenses to track and allocate project resources <br>
 - Mentor and train new employees for career progression
