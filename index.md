@@ -52,7 +52,7 @@ __Graduate Research Assistant (2015 - 2017)__ <br>
 Iowa State University, Ames, IA, USA. <br>
 As part of my M.S. Thesis work, I led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for daily operation, maintenance, and sampling of the bioreactors. I also conducted statisitcal and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors.
  
-__Research Intern (2015 Summer)__ <br>
+__Research Intern (2015 summer)__ <br>
 University of Malaya, Kuala Lumpur Malaysia. <br>
 During my internship, I assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I was also tasked to produce a literature review report on extended aeration wastewater treatments systems for a proposal development.
 
