@@ -90,7 +90,7 @@ c.	Long term impact of poultry manure application on crop yield and soil and wat
 d.	Impact of hydraulic residence time and woodchip properties on nitrate removal in pilot-scale woodchip bioreactors. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
 e.	Nutrient export from paired catchments with varying BMPs implementation. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
 
-Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopener noreferrer">my CV</a><br> to see all presentations.
+Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopener noreferrer">my CV</a> to see all presentations.
 
 ---
 
