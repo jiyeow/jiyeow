@@ -1,4 +1,4 @@
-## A few things about myself
+## Relator, Learner, Analytical, Achiever, Responsibility
 
 ---
 
@@ -16,17 +16,19 @@
 ---
 
 ### 2. Software and Hardware
-__Software__
-- ArcGIS, AutoCAD, SolidWorks, Autodesk
-- Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
-- VBA, Python
-- JMP, SAS, OriginLab
-- MS Word, Excel, PowerPoint, Project, Outlook
+- Software
+   - ArcGIS, AutoCAD, SolidWorks, Autodesk
+   - Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
+   - VBA, Python
+   - JMP, SAS, OriginLab
+   - MS Word, Excel, PowerPoint, Project, Outlook
 
-__Hardware__
-- Trimble RTK GPS, GNSS, Transit Level
-- Solinst/HOBO pressure and barometric tranducers
-- Teledyne automated water samplers and flow sensors
+- Hardware
+  - RTK GPS, GNSS, Transit Level (Trimble)
+  - Pressure and barometric tranducers (Solinst, HOBO, etc.)
+  - Automated water samplers and flow sensors (Teledyne, etc.)
+  - Flow and velocity meters (Swoffer, Global Water, Neptune, etc.)
+  - Multiparameter probes (YSI, Hach, etc.)
 
 ---
 
@@ -46,29 +48,29 @@ Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e199
 
 ### 4. Experience
 __Environmental Engineer (2018 - present)__ <br>
-Iowa State University, Ames, Iowa, USA. <br>
-_As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
-our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped goverment, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches._ <br>
+_Iowa State University, Ames, Iowa, USA._ <br>
+As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside 
+our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped goverment, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br>
 
-_My primary work involves the investigation of fate and transport of pollutants in the environment, and the development remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes watershed monitoring design, watershed management plan, and denitrification bioreactor design._
+My primary work involves the investigation of fate and transport of pollutants in the environment, and the development remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes watershed monitoring design, watershed management plan, and denitrification bioreactor design.
 
 ---
 
 __Research Analyst Intern (2018 spring)__ <br>
-Iowa Soybean Association, Ankeny, IA, USA. <br>
-_I completed two modeling projects during my one-month internship. I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. Similarly, I intergrated VBA and hydraulic retention time model in MS Excel to compute flows and nitrogen load reductions of denitrification bioreactors across Iowa._
+_Iowa Soybean Association, Ankeny, IA, USA._ <br>
+I completed two modeling projects during my one-month internship. I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. Similarly, I intergrated VBA and hydraulic retention time model in MS Excel to compute flows and nitrogen load reductions of denitrification bioreactors across Iowa.
 
 __Graduate Research Assistant (2015 - 2017)__ <br>
-Iowa State University, Ames, IA, USA. <br>
-_As part of my M.S. Thesis work, I led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for daily operation, maintenance, and sampling of the bioreactors. I also conducted statisitcal and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors._
+_Iowa State University, Ames, IA, USA._ <br>
+As part of my M.S. Thesis work, I led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for daily operation, maintenance, and sampling of the bioreactors. I also conducted statisitcal and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors.
  
 __Research Intern (2015 summer)__ <br>
-University of Malaya, Kuala Lumpur Malaysia. <br>
-_During my internship, I assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I was also tasked to produce a literature review report on extended aeration wastewater treatments systems for a proposal development._
+_University of Malaya, Kuala Lumpur Malaysia._ <br>
+During my internship, I assisted a research study to investigate the efficiency of enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I was also tasked to produce a literature review report on extended aeration wastewater treatments systems for a proposal development.
 
 __Undergraduate Research Assistant (2014 - 2015)__ <br>
-Iowa State University, Ames, IA, USA. <br>
-_I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), and in the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory._
+_Iowa State University, Ames, IA, USA._ <br>
+I began working as an undergraduate research assistant in the Agronomy lab during summer 2014 (40 hours per week), and in the Water Quality Research Lab during Fall 2014 and Spring 2015 (~15-20 hours per week). I assisted studies focusing on water and soil quality research. Specifically, I supported field construction, maintenance, and sampling for field-scale denitrification bioreactors at the research demonstration site. I also conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory.
 
 ---
 
