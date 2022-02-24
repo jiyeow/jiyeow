@@ -19,6 +19,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   
 theme: jekyll-theme-minimal
+gtag('config', 'G-T964P3TZY0')
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-T964P3TZY0"></script>
