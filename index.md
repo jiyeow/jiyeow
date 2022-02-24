@@ -1,4 +1,4 @@
-## Relator, Learner, Analytical, Achiever, Responsibility
+### Relator, Learner, Analytical, Achiever, Responsibility
 
 ---
 
