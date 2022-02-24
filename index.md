@@ -73,22 +73,22 @@ _I began working as an undergraduate research assistant in the Agronomy lab duri
 ---
 
 ### 5. Recent publications
-a.	Law, J. Y., Long, L. A., Kaleita, A., Helmers, M., Brendel, C., van der Woude, K., & Soupir, M. (2022). Stacked conservation practices reduce nitrogen loss: A paired watershed study. Journal of Environmental Management, 302 Part A(114053). doi:10.1016/j.jenvman.2021.114053 <br>
-b.	Law, J. Y., Brendel, C., Long, L. A., Helmers, M., Kaleita, A., & Soupir, M. (2020). Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. Journal of Environmental Quality, 1-12. doi:10.1002/jeq2.20140 <br>
-c.	Palmer, J. A, Law, J. Y., Soupir, M. S. (2020). Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. Science of The Total Environment, 722, 137846. doi:10.1016/j.scitotenv.2020.137846 <br>
-d.	Hoover, N., Law, J. Y., Long, L. A., Kanwar, R., & Soupir, M. (2019). Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. Journal of Environmental Management, 252, 109582. doi:10.1016/j.jenvman.2019.109582 <br>
-e.	Law, J. Y., Soupir, M., Raman, R., Moorman, T. B., & Ong, S. K. (2018). Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. Ecological Engineering, 110, 38-47. doi:10.1016/j.ecoleng.2017.10.002 <br>
+-	Law, J. Y., Long, L. A., Kaleita, A., Helmers, M., Brendel, C., van der Woude, K., & Soupir, M. (2022). Stacked conservation practices reduce nitrogen loss: A paired watershed study. Journal of Environmental Management, 302 Part A(114053). doi:10.1016/j.jenvman.2021.114053 <br>
+-	Law, J. Y., Brendel, C., Long, L. A., Helmers, M., Kaleita, A., & Soupir, M. (2020). Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. Journal of Environmental Quality, 1-12. doi:10.1002/jeq2.20140 <br>
+-	Palmer, J. A, Law, J. Y., Soupir, M. S. (2020). Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. Science of The Total Environment, 722, 137846. doi:10.1016/j.scitotenv.2020.137846 <br>
+-	Hoover, N., Law, J. Y., Long, L. A., Kanwar, R., & Soupir, M. (2019). Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. Journal of Environmental Management, 252, 109582. doi:10.1016/j.jenvman.2019.109582 <br>
+-	Law, J. Y., Soupir, M., Raman, R., Moorman, T. B., & Ong, S. K. (2018). Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. Ecological Engineering, 110, 38-47. doi:10.1016/j.ecoleng.2017.10.002 <br>
 
 Please visit my <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> to see all publications.
 
 ---
 
 ### 6. Recent presentations
-a.	Corncob-amended woodchip bioreactors improved nitrate removal rate and cost-efficiency. ASA, CSSA, SSSA International Annual Meeting 2021. Salt Lake City, UT, USA. <br>
-b.	Nutrient, sediment, and antimicrobial resistance bacteria/gene export from paired catchments with varying BMPs implementation. Iowa Water Conference 2021, Ames, IA, USA (moved to virtual format). <br>
-c.	Long term impact of poultry manure application on crop yield and soil and water quality. American Society of Agricultural and Biological Engineers Annual International Meeting 2020. Omaha, NE, USA (moved to virtual format). <br>
-d.	Impact of hydraulic residence time and woodchip properties on nitrate removal in pilot-scale woodchip bioreactors. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
-e.	Nutrient export from paired catchments with varying BMPs implementation. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
+-	Corncob-amended woodchip bioreactors improved nitrate removal rate and cost-efficiency. ASA, CSSA, SSSA International Annual Meeting 2021. Salt Lake City, UT, USA. <br>
+-	Nutrient, sediment, and antimicrobial resistance bacteria/gene export from paired catchments with varying BMPs implementation. Iowa Water Conference 2021, Ames, IA, USA (moved to virtual format). <br>
+-	Long term impact of poultry manure application on crop yield and soil and water quality. American Society of Agricultural and Biological Engineers Annual International Meeting 2020. Omaha, NE, USA (moved to virtual format). <br>
+-	Impact of hydraulic residence time and woodchip properties on nitrate removal in pilot-scale woodchip bioreactors. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
+-	Nutrient export from paired catchments with varying BMPs implementation. American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA. <br>
 
 Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopener noreferrer">my CV</a> to see all presentations.
 
