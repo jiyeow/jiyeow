@@ -55,7 +55,7 @@ My primary work involves investigating the fate and transport of pollutants in t
 
 __Research Analyst Intern (2018 spring)__ <br>
 _Iowa Soybean Association, Ankeny, IA, USA._ <br>
-I completed two modeling projects during my one-month internship. I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. Similarly, I integrated VBA into the hydraulic retention time model using MS Excel to systematically compute flows and nitrogen load reductions of denitrification bioreactors across Iowa.
+I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of denitrification bioreactors across Iowa.
 
 __Graduate Research Assistant (2015 - 2017)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
