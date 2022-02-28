@@ -3,15 +3,22 @@
 ---
 
 ### 1. Expertise and skills
-- Project management, budgeting, and personnel training
-- Field survey and sampling
-- Instrumentation 
-- Data management and statistical analysis 
-- Engineering economic analysis
-- Hydrology and hydraulic (H&H) modeling 
-- Technical writing
+- Project management
+   -  Planning
+   -  Budgeting
+   -  Timeline management
+   -  Reporting
+- Operations management
+   - Field survey and sampling
+   - Instrumentation 
+- Technical skills
+   - Data management and science
+   - Engineering economic analysis
+   - Hydrology and hydraulic (H&H) modeling 
+   - Technical writing
 - Client and public engagement
-- Multilingual (English - primary, Chinese, Malay)
+   - Public speaking
+   - Multilingual (English, Chinese, Malay)
 
 ---
 
