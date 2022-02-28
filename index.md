@@ -65,7 +65,7 @@ My primary work involves investigating the fate and transport of pollutants in t
 
 __Research Analyst Intern (2018 spring)__ <br>
 _Iowa Soybean Association, Ankeny, IA, USA._ <br>
-I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of denitrification bioreactors across Iowa.
+I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of 11 denitrification bioreactors across Iowa.
 
 __Graduate Research Assistant (2015 - 2017)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
@@ -73,11 +73,11 @@ I led the design process to develop electrically stimulated denitrification bior
  
 __Research Intern (2015 summer)__ <br>
 _University of Malaya, Kuala Lumpur Malaysia._ <br>
-I assisted in a research study investigating the efficiency of the enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I also delivered a literature review report on extended aeration wastewater treatments systems.
+I assisted investigating the efficiency of the enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I also delivered a literature review report on extended aeration wastewater treatments systems.
 
 __Undergraduate Research Assistant (2014 - 2015)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
-While pursuing my B.S. degree, I worked as an undergraduate research assistant in the Soil Physics Lab during summer 2014 (40 hours per week), and in the Water Quality Research Lab during Fall 2014 and Spring 2015 (15-20 hours per week). I assisted studies focusing on soil and water quality research. I  conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory. I also supported field construction, maintenance, and sampling for field-scale denitrification bioreactors.
+While pursuing my B.S. degree, I worked as an undergraduate research assistant in the Soil Physics Lab during summer 2014 (40 hours per week), and in the Water Quality Research Lab during Fall 2014 and Spring 2015 (15-20 hours per week). I assisted studies focusing on soil and water quality research. Specifically, I  conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory. I also supported field construction, maintenance, and sampling for field-scale denitrification bioreactors.
 
 ---
 
