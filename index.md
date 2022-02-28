@@ -4,13 +4,16 @@
 
 ### 1. Expertise and skills
 - Project management
+   -  Proposal development
    -  Planning
    -  Budgeting
-   -  Timeline management
+   -  Schedule management
    -  Reporting
 - Operations management
-   - Field survey and sampling
    - Instrumentation 
+   - Field survey and sampling
+   - Personnel training
+   - Safety compliance assurance
 - Technical skills
    - Data management and science
    - Engineering economic analysis
@@ -30,7 +33,7 @@
    - JMP, SAS, OriginLab
    - MS Word, Excel, PowerPoint, Project, Outlook
 - Hardware
-  - RTK GPS, GNSS, Transit Level (Trimble)
+  - RTK GPS, GNSS, transit Level (Trimble)
   - Pressure and barometric tranducers (Solinst, HOBO, etc.)
   - Automated water samplers and flow sensors (Teledyne, etc.)
   - Flow and velocity meters (Swoffer, Global Water, Neptune, etc.)
