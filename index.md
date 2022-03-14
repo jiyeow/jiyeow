@@ -51,8 +51,8 @@ Bachelor of Science, 2013 - 2016 (GPA: 3.76) <br>
 _Major: Agricultural Engineering (Land and Water Resources) <br>
 Minor: Agribusiness_ <br> 
 
-__NCEES, 2016__ <br>
-Engineer-in-Training <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(verification link)</a>.
+__Iowa Engineering and Land Surveying Examining Board, 2016__ <br>
+Engineer-in-Training, F19474 <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(NCEES verification link)</a>.
 
 ---
 
