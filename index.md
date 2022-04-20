@@ -1,4 +1,4 @@
-### Relator, Learner, Analytical, Achiever, Responsibility
+### Welcome to my personal webpage
 
 ---
 
