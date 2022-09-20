@@ -69,7 +69,7 @@ I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurfa
 
 __Graduate Research Assistant (2015 - 2017)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
-I led the design process to develop electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for the daily operation, maintenance, and sampling of the bioreactors. I also conducted statistical and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors. The success of this work led to two peer-reviewed publications.
+I led the R&D of electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for the design, construction, operation, maintenance, and sampling of the bioreactors. I also conducted statistical and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors. The success of this work led to two peer-reviewed publications.
  
 __Research Intern (2015 summer)__ <br>
 _University of Malaya, Kuala Lumpur Malaysia._ <br>
@@ -77,7 +77,7 @@ I assisted investigating the efficiency of the enhanced biological phosphorus re
 
 __Undergraduate Research Assistant (2014 - 2015)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
-While pursuing my B.S. degree, I worked as an undergraduate research assistant in the Soil Physics Lab during summer 2014 (40 hours per week), and in the Water Quality Research Lab during Fall 2014 and Spring 2015 (15-20 hours per week). I assisted studies focusing on soil and water quality research. Specifically, I  conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory. I also supported field construction, maintenance, and sampling for field-scale denitrification bioreactors.
+When working in the Soil Physics Lab and Water Quality Research Lab, I assisted studies focusing on soil and water quality research. Specifically, I  conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory. I also supported field construction, maintenance, and sampling for field-scale denitrification bioreactors.
 
 ---
 
