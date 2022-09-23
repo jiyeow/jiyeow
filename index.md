@@ -88,7 +88,7 @@ When working in the Soil Physics Lab and Water Quality Research Lab, I assisted 
 -	Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. <a href="https://doi.org/10.1016/j.jenvman.2019.109582" target="_blank" rel="noopener noreferrer">Download</a> <br>
 -	Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <a href="https://doi.org/10.1016/j.ecoleng.2017.10.002" target="_blank" rel="noopener noreferrer">Download</a> <br>
 
-Please visit my <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> to see all publications.
+Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">my Google Scholar</a> to see all publications.
 
 ---
 
