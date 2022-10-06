@@ -55,19 +55,16 @@ Engineer-in-Training, F19474 <a href="https://account.ncees.org/rn/1653761-90109
 ---
 
 ### 4. Experience
-<details>
-<summary>
 __Environmental Engineer (2018 - present)__ <br>
 _Iowa State University, Ames, Iowa, USA._ <br> 
+<details>
+<summary>
+More details
 </summary> <br>
 As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped government, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br>
 
 My primary work involves investigating the fate and transport of pollutants in the environment and developing remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes water quality monitoring design, watershed management plan, and denitrification bioreactor design. At present, I am the lead project engineer for a watershed monitoring project and a field bioreactor project. My responsibilities include budgeting, managing fieldwork, data management/analysis, and reporting.
-
-__Research Analyst Intern (2018 spring)__ <br>
-_Iowa Soybean Association, Ankeny, IA, USA._ <br>
-I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of 11 denitrification bioreactors across Iowa.
-</details>
+</details> <br>
 
 
 
