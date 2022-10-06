@@ -68,9 +68,9 @@ _Iowa Soybean Association, Ankeny, IA, USA._ <br>
 <details>
 <summary>
 More information
-</summary>
+</summary>    
 I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of 11 denitrification bioreactors across Iowa.
-</details>  <br>
+</details> <br>
    
 __Graduate Research Assistant (2015 - 2017)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
