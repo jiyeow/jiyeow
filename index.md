@@ -5,20 +5,19 @@
 ### 1. Expertise and skills
 - Project management
    -  Proposal development
-   -  Planning
-   -  Budgeting
-   -  Schedule management
+   -  Planning and budgeting
    -  Reporting
 - Operations management
    - Instrumentation 
    - Field survey and sampling
    - Personnel training
    - Safety compliance assurance
-- Technical skills
+- Technical knowledge and skills
+   - Environmental monitoring and management
+   - Hydrology and hydraulics 
    - Data management and science
    - Engineering economic analysis
-   - Hydrology and hydraulic (H&H) modeling 
-   - Technical writing
+   - Technical drawing and writing
 - Client and public engagement
    - Public speaking
    - Multilingual (English, Chinese, Malay)
@@ -27,17 +26,16 @@
 
 ### 2. Software and Hardware
 - Software
-   - ArcGIS, AutoCAD, SolidWorks, Autodesk
+   - ArcGIS, Civil 3D, AutoCAD, SolidWorks
    - Hydrus 1-D, BATHTUB, WEPP, DRAINMOD
-   - VBA, Python
+   - Python, VBA
    - JMP, SAS, OriginLab
-   - MS Word, Excel, PowerPoint, Project, Outlook
+   - MS Office products
 - Hardware
-  - RTK GPS, GNSS, transit Level (Trimble)
-  - Pressure and barometric tranducers (Solinst, HOBO, etc.)
-  - Automated water samplers and flow sensors (Teledyne, etc.)
-  - Flow and velocity meters (Swoffer, Global Water, Neptune, etc.)
-  - Multiparameter probes (YSI, Hach, etc.)
+  - Flow monitoring instrument
+  - Automated water samplers and flow sensors
+  - Multiparameter water quality probes
+  - Survey equipment (RTK GPS, transit level)
 
 ---
 
