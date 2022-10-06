@@ -57,38 +57,47 @@ Engineer-in-Training, F19474 <a href="https://account.ncees.org/rn/1653761-90109
 ### 4. Experience
 __Environmental Engineer (2018 - present)__ <br>
 _Iowa State University, Ames, Iowa, USA._ <br> 
-<details>
-<summary>
-More details
-</summary> <br>
-As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped government, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br>
+As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped government, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br> 
 
-My primary work involves investigating the fate and transport of pollutants in the environment and developing remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes water quality monitoring design, watershed management plan, and denitrification bioreactor design. At present, I am the lead project engineer for a watershed monitoring project and a field bioreactor project. My responsibilities include budgeting, managing fieldwork, data management/analysis, and reporting.
-</details> <br>
+My primary work involves investigating the fate and transport of pollutants in the environment and developing remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes water quality monitoring design, watershed management plan, and denitrification bioreactor design. At present, I am the lead project engineer for a watershed monitoring project and a field bioreactor project. My responsibilities include budgeting, managing fieldwork, data management/analysis, and reporting. <br>
 
 
-
-__Environmental Engineer (2018 - present)__ <br>
-_Iowa State University, Ames, Iowa, USA._ <br>
-As an environmental research engineer, I provide expertise in both research and consulting environments. In collaboration with many talented peers within and outside our organization, I delivered innovative water management / remediation solutions and demonstrated improved performance at lower costs. I also helped government, non-profit, and private organizations address their environmental concerns using practical, cost-effective approaches. <br>
-
-My primary work involves investigating the fate and transport of pollutants in the environment and developing remediation strategies to achieve water quality goals. Most of my recent work are available in the <a href="/pdf/Ji Yeow Law - Portfolio.pdf " target="_blank" rel="noopener noreferrer">portfolio</a>, which includes water quality monitoring design, watershed management plan, and denitrification bioreactor design. At present, I am the lead project engineer for a watershed monitoring project and a field bioreactor project. My responsibilities include budgeting, managing fieldwork, data management/analysis, and reporting.
 
 __Research Analyst Intern (2018 spring)__ <br>
 _Iowa Soybean Association, Ankeny, IA, USA._ <br>
+<details>
+<summary>
+More information
+</summary> <br>
 I used DRAINMOD and Hydrus 1-D hydrology models to estimate surface and subsurface nitrogen loading from four tile-drained agricultural landscapes in Iowa. I also built a hydraulic retention time model using MS Excel and VBA to compute flows and nitrogen load reductions of 11 denitrification bioreactors across Iowa.
-
+</details> 
+   
 __Graduate Research Assistant (2015 - 2017)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
+<details>
+<summary>
+More information
+</summary> <br>
 I led the R&D of electrically stimulated denitrification bioreactors, and successfully demonstrated improved bioreactor performance in feasibilities studies. I was responsible for the design, construction, operation, maintenance, and sampling of the bioreactors. I also conducted statistical and engineering economic analysis to compare the performance and cost-efficiency of modified vs. conventional bioreactors. The success of this work led to two peer-reviewed publications.
- 
+</details> 
+
 __Research Intern (2015 summer)__ <br>
 _University of Malaya, Kuala Lumpur Malaysia._ <br>
+<details>
+<summary>
+More information
+</summary> <br>
 I assisted investigating the efficiency of the enhanced biological phosphorus removal (EBPR) process in municipal wastewater treatment under tropical-temperature conditions. I performed routine maintenance, sampling, and chemical analyses on sequencing batch bioreactors. I also delivered a literature review report on extended aeration wastewater treatments systems.
-
+</details> 
+                
 __Undergraduate Research Assistant (2014 - 2015)__ <br>
 _Iowa State University, Ames, IA, USA._ <br>
+<details>
+<summary>
+More information
+</summary> <br>
 When working in the Soil Physics Lab and Water Quality Research Lab, I assisted studies focusing on soil and water quality research. Specifically, I  conducted soil and water sampling in the field, and performed chemical, biological, and physical analyses of soil/water samples in the laboratory. I also supported field construction, maintenance, and sampling for field-scale denitrification bioreactors.
+</details> 
 
 ---
 
