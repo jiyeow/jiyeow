@@ -49,8 +49,8 @@ Bachelor of Science, 2013 - 2016 (GPA: 3.76) <br>
 _Major: Agricultural Engineering (Land and Water Resources) <br>
 Minor: Agribusiness_ <br> 
 
-__Iowa Engineering and Land Surveying Examining Board, 2016__ <br>
-Engineer-in-Training, F19474 <a href="https://account.ncees.org/rn/1653761-901097-c6e1990" target="_blank" rel="noopener noreferrer">(NCEES verification link)</a>.
+__Iowa Engineering and Land Surveying Examining Board, 2022__ <br>
+Professional Engineer, P27772
 
 ---
 
@@ -102,11 +102,11 @@ When working in the Soil Physics Lab and Water Quality Research Lab, I assisted 
 ---
 
 ### 5. Recent publications
+-	Amending woodchip bioreactors with corncobs reduces nitrogen removal cost. <a href="https://doi.org/10.1016/j.jenvman.2022.117135" target="_blank" rel="noopener noreferrer">Download</a> <br>
 -	Stacked conservation practices reduce nitrogen loss: A paired watershed study. <a href="https://doi.org/10.1016/j.jenvman.2021.114053" target="_blank" rel="noopener noreferrer">Download</a> <br>
 -	Impact of stacked conservation practices on phosphorus and sediment export at the catchment scale. <a href="https://doi.org/10.1002/jeq2.20140" target="_blank" rel="noopener noreferrer">Download</a> <br>
 -	Spatial and temporal distribution of E. coli contamination on three inland lake and recreational beach systems in the upper Midwestern United States. <a href="https://doi.org/10.1016/j.scitotenv.2020.137846" target="_blank" rel="noopener noreferrer">Download</a> <br>
--	Long-term impact of poultry manure on crop yield, soil and water quality, and crop revenue. <a href="https://doi.org/10.1016/j.jenvman.2019.109582" target="_blank" rel="noopener noreferrer">Download</a> <br>
--	Electrical stimulation for enhanced denitrification in woodchip bioreactors: Opportunities and challenges. <a href="https://doi.org/10.1016/j.ecoleng.2017.10.002" target="_blank" rel="noopener noreferrer">Download</a> <br>
+
 
 Please visit <a href="https://scholar.google.com/citations?hl=en&user=WJfo4p8AAAAJ" target="_blank" rel="noopener noreferrer">my Google Scholar</a> to see all publications.
 
@@ -119,10 +119,7 @@ _ASA, CSSA, SSSA International Annual Meeting 2021. Salt Lake City, UT, USA._ <b
 _Iowa Water Conference 2021, Ames, IA, USA (moved to virtual format)_ <br>
 -	Long term impact of poultry manure application on crop yield and soil and water quality. <br>
 _American Society of Agricultural and Biological Engineers Annual International Meeting 2020. Omaha, NE, USA (moved to virtual format)_ <br>
--	Impact of hydraulic residence time and woodchip properties on nitrate removal in pilot-scale woodchip bioreactors. <br>
-_American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA._ <br>
--	Nutrient export from paired catchments with varying BMPs implementation. <br>
-_American Society of Agricultural and Biological Engineers Annual International Meeting 2019. Boston, MA, USA._ <br>
+
 
 Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopener noreferrer">my CV</a> to see all presentations.
 
