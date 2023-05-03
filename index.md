@@ -127,5 +127,5 @@ Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopen
 
 ### 7. Hobbies
 Visit this page to check out what I do for fun!
-<a href="https://jiyeow.github.io/hobby.md" target="_blank" rel="noopener noreferrer">Hobby</a>
+<a href="https://jiyeow.github.io/hobby.html" target="_blank" rel="noopener noreferrer">Hobby</a>
 
