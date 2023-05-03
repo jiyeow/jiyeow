@@ -127,3 +127,4 @@ Please refer to <a href="/pdf/Ji Yeow Law - CV.pdf " target="_blank" rel="noopen
 
 ### 7. Hobbies
 Coming soon...gathering my memories
+[jiyeow.github.io/hobby.md] (Visit this page if you like to know what I do for fun!)
