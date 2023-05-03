@@ -4,7 +4,7 @@
 
 ### Life on the water
 Canoeing in Boundary Waters <br>
-<img src="Canoe 1.jpg?raw=true"/>
+
 
 Fishing
 
@@ -21,8 +21,8 @@ Backpacking/travelling
 Mountain Biking/Biking
 
 
-Riding motorcycle
-
+Riding motorcycle <br>
+<img src="images/Bike1.jpg" height="400">
 
 Fun run
 
