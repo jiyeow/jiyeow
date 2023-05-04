@@ -14,7 +14,7 @@
 <img src="images/HistoryFarm1.jpg" height="400"> <br>
 </p>
 
-### And when I'm tired of walking, I like pedaling <br>
+### And when I'm tired of walking/running, I like pedaling <br>
 <p align="center"> 
 <img src="images/MtnBiking1.JPG" height="400"> <br>
 <img src="images/MtnBiking2.jpeg" height="400"> <br>
