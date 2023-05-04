@@ -1,7 +1,7 @@
 <a href="https://jiyeow.github.io/index.html" rel="noopener noreferrer">Back to main page</a>
 
 ---
-### Life on the land
+# Life on the land
 Walking around tress and mountains <br>
 <p align="center"> <img src="images/Hiking6.jpg" height="400"> </p><br> 
 <img src="images/Hiking3.jpg" height="400"> <br>
@@ -19,7 +19,7 @@ And..when I'm tired of pedaling, I add a small motor to my bike <br>
 <img src="images/Bike1.jpg" height="400">
 
 
-### Life on the water
+# Life on the water
 Scuba diving (technically under water but oh well) <br>
 <img src="images/Diving1.jpg" height="400">
 
@@ -30,7 +30,7 @@ Just got to get to the nice fishing spot <br>
 <img src="images/Canoe2.jpg" height="400">
 
 
-### Life in the air
+# Life in the air
 Jumping off a perfectly fine plane - why not <br>
 <img src="images/Skydiving2.JPG" height="400"> <br>
 
