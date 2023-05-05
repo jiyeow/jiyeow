@@ -3,7 +3,7 @@
 ---
 
 # Life on the land
-### Walking around tress and mountains. 
+### I enjoy walking around trees and mountains. 
 
 <p align="center"> 
 <img src="images/Hiking6.jpg" height="350"><br> 
