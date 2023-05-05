@@ -22,7 +22,7 @@
 <img src="images/MtnBiking2.jpeg" height="350"> <br>
 </p>
 
-### And..when I'm tired of pedaling, I add a small enginer to my bike.
+### And..when I'm tired of pedaling, I add a small engine to my bike.
 <p align="center"> 
 <img src="images/Bike1.jpg" height="350">
 </p>
