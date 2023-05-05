@@ -22,7 +22,7 @@
 <img src="images/MtnBiking2.jpeg" height="350"> <br>
 </p>
 
-### And..when I'm tired of pedaling, I add a small engine to my bike.
+### And..when I'm tired of pedaling, I use a motorized bike.
 <p align="center"> 
 <img src="images/Bike1.jpg" height="350">
 </p>
@@ -38,7 +38,7 @@
 <img src="images/Ski1.jpg" height="350">
 </p>
 
-### You can say I'm a fishless fisherman.
+### You can call me a fishless fisherman (90% of the time).
 <p align="center">
 <img src="images/Fishing1.jpeg" height="350">
 </p>
@@ -49,7 +49,7 @@
 </p>
 ---
 # Life in the air
-### You have to jump out of a perfectly fine plane at least once.
+### I had to jump out of a perfectly fine plane at least once.
 <p align="center">
 <img src="images/Skydiving2.JPG" height="350"> <br>
 </p>
