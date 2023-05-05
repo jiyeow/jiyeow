@@ -16,21 +16,26 @@
 <img src="images/HistoryFarm1.jpg" height="350"> <br>
 </p>
 
-### And when I'm tired of walking/running, I enjoy pedaling. 
+### When I'm tired of walking/running, I enjoy pedaling. 
 <p align="center"> 
 <img src="images/MtnBiking1.JPG" height="350"> <br>
 <img src="images/MtnBiking2.jpeg" height="350"> <br>
 </p>
 
-### And..when I'm tired of pedaling, I add a small motor to my bike.
+### And..when I'm tired of pedaling, I add a small enginer to my bike.
 <p align="center"> 
 <img src="images/Bike1.jpg" height="350">
 </p>
 ---
 # Life on the water
-### Scuba diving (technically under water but oh well).
+### Scuba diving (technically under water).
 <p align="center"> 
 <img src="images/Diving1.jpg" height="350">
+</p>
+
+### If you consider snow as water.
+<p align="center"> 
+<img src="images/Ski1.jpg" height="350">
 </p>
 
 ### You can say I'm a fishless fisherman.
