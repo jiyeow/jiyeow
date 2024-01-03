@@ -1,5 +1,3 @@
-### Welcome to my personal webpage
-
 ---
 
 ### 1. Expertise and skills
